@@ -1,0 +1,8 @@
+{
+    "domain": "kruidvat_watch",
+    "name": "Kruidvat Watch",
+    "documentation": "https://github.com/daandobber/kruidvat_watch",
+    "requirements": ["beautifulsoup4==4.9.3", "requests==2.25.1"],
+    "dependencies": [],
+    "codeowners": ["@daandobber"]
+}
